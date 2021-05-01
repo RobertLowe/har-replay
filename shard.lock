@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  har:
+    git: https://github.com/NeuraLegion/har.git
+    version: 1.1.5
+

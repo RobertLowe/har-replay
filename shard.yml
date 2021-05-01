@@ -1,0 +1,7 @@
+name: har-replay
+version: 0.1.0
+dependencies:
+  har:
+    github: NeuraLegion/har
+authors:
+  - Robert Lowe <rob@robertlowe.ca>
